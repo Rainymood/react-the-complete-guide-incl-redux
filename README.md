@@ -15,6 +15,7 @@ To get started, clone the repo and install the node modules
 
 ```bash
 git clone https://github.com/Rainymood/react-the-complete-guide-incl-redux
+cd react-the-complete-guide-incl-redux
 npm install
 ```
 
