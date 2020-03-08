@@ -2,19 +2,22 @@
 
 Check out this commit
 
-`git checkout f750487b1841e55134d634856614881b1728ffbc`
+```
+git checkout f750487b1841e55134d634856614881b1728ffbc
+npm start
+```
 
-Creating a react app is easy
+Should result in something like this
+
+![](/doc/images/001-react-example.png)
+
+Creating is a new React application can be done with a single command
 
 ```bash
 npx create-react-app .
 ```
 
-Then you can run it with 
+## Key learnings
 
-`npm start`
-
-Should result in 
-
-![](/doc/images/001-react-example.png)
-
+* Create a react app with `npx create-react-app my-folder` or `npx create-react-app .` in the current folder
+* Run with `npm start`
