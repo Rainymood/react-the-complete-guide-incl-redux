@@ -34,3 +34,4 @@ To return to the main branch and undo all the changes that you made.
 * [2. Components](doc/002-components.md)
 * [3. Dynamic content](doc/003-dynamic-content.md)
 * [4. Props](doc/004-props.md)
+* [5. Children](doc/005-children.md)

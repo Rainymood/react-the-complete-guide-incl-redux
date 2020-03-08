@@ -43,7 +43,6 @@ class personClass extends Component {
 Changing the properties is easy
 
 ```JS
-
 class App extends Component {
     render() {
         return (
