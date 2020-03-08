@@ -52,7 +52,7 @@ const person = props => {
 
 ## Key learnings
 
-* The thing between <Component>THING</Component> is called a child
+* The thing between `<Component>THING</Component>` is called a child
 * We can get access to the child by calling the `children` attribute from `props`
 * In class-based components we use `this.props.children`
 * In functional components we use `props.children` directly
