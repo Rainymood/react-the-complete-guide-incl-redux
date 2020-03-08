@@ -2,7 +2,7 @@
 
 ```bash
 git checkout -b 007-button-onclick
-git checkout 
+git checkout 6d53e47f286d9c95165dac5f40a5fb7a23e4a4b0
 npm start
 ```
 
