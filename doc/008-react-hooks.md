@@ -2,7 +2,7 @@
 
 ```bash
 git checkout -b 008-react-hooks
-git checkout ...
+git checkout 748865b74dc9b0d18bd2df2d2a64559cd0c81edf
 npm start
 ```
 

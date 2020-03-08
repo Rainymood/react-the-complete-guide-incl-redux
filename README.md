@@ -37,4 +37,5 @@ To return to the main branch and undo all the changes that you made.
 * [5. Children](doc/005-children.md)
 * [6. State](doc/006-state.md)
 * [7. Button onClick](doc/007-button-onclick.md)
-* [8. React hooks (basics)]()
+* [8. React hooks](doc/008-react-hooks.md)
+    * Section 3 module 45
