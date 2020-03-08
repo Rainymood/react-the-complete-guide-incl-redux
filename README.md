@@ -9,6 +9,15 @@ To facilitate this last goal each of the lessons will take you back to a particu
 
 If you run into any trouble feel free to reach out to me. 
 
+## Setup
+
+To get started, clone the repo and install the node modules
+
+```bash
+git clone https://github.com/Rainymood/react-the-complete-guide-incl-redux
+npm install
+```
+
 ## Usage
 
 Each of these lessons will start with a block similar to 
