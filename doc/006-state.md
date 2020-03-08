@@ -2,7 +2,7 @@
 
 ```bash
 git checkout -b 006-state
-git checkout 
+git checkout 78768ce0d152fdfd380dc804ed65a0d4254fbb6c
 npm start
 ```
 
