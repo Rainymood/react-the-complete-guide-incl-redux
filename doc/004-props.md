@@ -58,4 +58,5 @@ class App extends Component {
 
 ## Key learnings
 
-* Use curly braces (`{..}`) to render dynamic content in JSX. 
+* In functional components we can access `props.name` directly
+* In class-based components we use `this.props.name` 
