@@ -16,5 +16,5 @@ Then you can run it with
 
 Should result in 
 
-![](doc/images/001-react-example.png)
+![](/doc/images/001-react-example.png)
 
