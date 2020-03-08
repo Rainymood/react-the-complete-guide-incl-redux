@@ -1,7 +1,7 @@
 # Props
 
 ```bash
-git checkout ...
+git checkout fcc8fdb63bfdd70286e7b6c23bca3f1dfbb16e92
 npm start
 ```
 

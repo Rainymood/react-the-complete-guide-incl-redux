@@ -9,3 +9,4 @@ Therefore, each of these lessons will start with a certain `git checkout <sha1>`
 * [1. Creating your react app](doc/001-create-react-app.md)
 * [2. Components](doc/002-components.md)
 * [3. Dynamic content](doc/003-dynamic-content.md)
+* [4. Props](doc/004-props.md)
