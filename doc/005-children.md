@@ -2,7 +2,7 @@
 
 ```bash
 git checkout -b 005-children
-git checkout ...
+git checkout 3d8a7e3a98fd669eeacc7c8a848597a37e78c045
 npm start
 ```
 
