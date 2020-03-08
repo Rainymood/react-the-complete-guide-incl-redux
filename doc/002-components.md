@@ -1,6 +1,7 @@
 # Components
 
 ```bash
+git branch -b 002-components
 git checkout 66be8779cbf64476c7a1a2cf93819d6c62d08461
 npm start
 ```

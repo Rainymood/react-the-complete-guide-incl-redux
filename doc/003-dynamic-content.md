@@ -1,6 +1,7 @@
 # Dynamic content
 
 ```bash
+git checkout -b 003-dynamic-content
 git checkout 0a3c9377e6264d763a7a784186332928a4ce4a06
 npm start
 ```

@@ -1,7 +1,5 @@
 # Create react app
 
-Check out this commit
-
 ```
 git branch -b 001-create-react-app
 git checkout f750487b1841e55134d634856614881b1728ffbc
